@@ -29,9 +29,11 @@ npx cypress open
 
 ## Structure:
 
-### `Pages`
 <img width="253" alt="Screen Shot 2023-04-05 at 11 52 53 PM" src="https://user-images.githubusercontent.com/78497060/230229414-206de6a6-44ff-4edd-b9ad-3a3a3a60c1f0.png">
-###### contains elements , page functions .
+
+### `Pages`
+
+###### contains elements,page functions .
 
 ### `Tests`
 ###### contains tests for buying new products.
