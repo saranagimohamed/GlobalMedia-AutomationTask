@@ -1,0 +1,10 @@
+{
+   "env": {
+    
+      "baseUrl": "https://magento.softwaretestingboard.com/"
+   },
+ 
+   "ignoreTestFiles": [
+      "**/Pages/**"
+   ]
+}
