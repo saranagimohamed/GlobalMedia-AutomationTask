@@ -4,7 +4,10 @@
 I selected Cypress, especially because it supports not only UI tests but also API checks.I tried to do as much dynamic testing as I could, using faker and moment libraries to make tests not dependent on specific data.
 Also, I think that the Page Object Model pattern is the best pattern in my case, so I separate between elements ,functions and toast messages .
 
-https://user-images.githubusercontent.com/78497060/229527689-a75041d6-ee0f-4e9b-84fd-f2c68a005b24.mp4
+
+
+https://user-images.githubusercontent.com/78497060/230228011-3cf65d32-c22d-426a-b03f-56f0d415e24b.mp4
+
 
 
 ## Setup
