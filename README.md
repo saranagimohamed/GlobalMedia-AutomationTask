@@ -63,7 +63,7 @@ afterEach(() => {
 
 ## Notes :
 
-###### `Faker and Moment libaries  used for creation random test data.`
+###### `Faker libaries used for creation random test data.`
 ###### `Cypress-Xpath used for adding strong selectors.`
 ###### `I found that The total amount of the products at the end is $140.00. `
 ###### `I found that The cart Icon is loading for long time and in some cases i need to go by link to checkout page not by clicking on cart Icon. `
