@@ -21,7 +21,6 @@ https://user-images.githubusercontent.com/78497060/230228011-3cf65d32-c22d-426a-
 ##### You can install all dependencies using :
 ```
 npm install 
-
 ```
 ##### You can run cypress using :
 ```
